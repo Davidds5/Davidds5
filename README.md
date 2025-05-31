@@ -9,10 +9,29 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidds5&layout=compact&langs_count=16&theme=dark"/>
   </a>
 </div>
+
+##
 <div style="display: inline_block"><br>
   <img align="center" alt="David-Java" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="David-Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+##
+<div>
+  <a href="https://www.youtube.com/@Davidds5" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/clovin_programacao" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/davidds5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/Davidds5" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
 
 
 
