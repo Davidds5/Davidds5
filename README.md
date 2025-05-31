@@ -5,15 +5,15 @@
 - 🧰 Projetos em andamentos: nenhum por enquanto
  <div align="center">
   <a href="https://github.com/Davidds5">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davidds5&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidds5&layout=compact&langs_count=16&theme=dark"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Davidds5&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidds5&layout=compact&langs_count=16&theme=dark"/>
   </a>
 </div>
 
 ##
 <div style="display: inline_block"><br>
-  <img align="center" alt="David-Java" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="David-Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="David-Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="David-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ##
