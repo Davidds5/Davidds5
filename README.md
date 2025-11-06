@@ -4,7 +4,7 @@
 
 - 📌 Atualmente estudando **Java POO**  
 - 🎓 3º semestre de **Ciência da Computação (UNIP)**  
-- 📚 Cursos em andamento: **Udemy - Nélio Alves**  
+- 📚 Cursos em andamento: **Youtube - Dev dojo**  
 - 🛠️ Projetos em andamento: *em breve novidades!*  
 
 ---
