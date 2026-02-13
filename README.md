@@ -1,144 +1,40 @@
-<!-- Banner -->
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:111827&height=220&section=header&text=David%20Silva%20☕&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" 
-    alt="Banner David Silva"
-  />
-</p>
+# Olá, eu sou o David Silva! 👋
 
-<h1 align="center">👋 David Silva</h1>
+### Desenvolvedor Java Backend | Spring Boot | APIs REST
 
-<p align="center">
-  Desenvolvedor <strong>Back-end Java em formação</strong><br/>
-  Foco em <strong>POO, APIs REST e Banco de Dados</strong>
-</p>
+Sou um desenvolvedor focado em construir sistemas de backend robustos, escaláveis e eficientes. Atualmente, dedico-me ao ecossistema Java, aplicando padrões de arquitetura corporativa e boas práticas de engenharia de software para resolver problemas complexos.
 
 ---
 
-<h2>📌 Sobre mim</h2>
-
-<ul>
-  <li>🎓 <strong>3º semestre de Ciência da Computação</strong> – UNIP</li>
-  <li>☕ Linguagem principal: <strong>Java</strong></li>
-  <li>🧠 Base sólida em <strong>Programação Orientada a Objetos</strong></li>
-  <li>🚀 Desenvolvimento de <strong>APIs REST com Spring Boot</strong></li>
-  <li>📚 Estudo focado em arquitetura, boas práticas e código limpo</li>
-</ul>
-
-<p>
-Cursos e formações:
-</p>
-
-<ul>
-  <li>Maratona Java – DevDojo</li>
-  <li>Java + Spring Boot + JPA/Hibernate – Nélio Alves (DevSuperior)</li>
-</ul>
+### 🛠️ Minha Stack Técnica
+*   **Linguagens:** Java (8/11/17+)
+*   **Frameworks:** Spring Boot, Spring Data JPA, Spring Security (em implementação)
+*   **Arquitetura:** RESTful APIs, Arquitetura em Camadas (Resource, Service, Repository), SOLID
+*   **Banco de Dados:** PostgreSQL, MySQL, H2 (testes)
+*   **Ferramentas:** Git, GitHub, Maven, Postman
 
 ---
 
-<h2>🧰 Tecnologias e Ferramentas</h2>
+### 🚀 Projetos em Destaque
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" height="55" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="55" height="55" alt="Spring Boot"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="55" height="55" alt="Postman"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="55" height="55" alt="Maven"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="55" height="55" alt="IntelliJ IDEA"/>
-</p>
+#### 🎮 [GameStore - Sistema de Gestão de Produtos](https://github.com/Davidds5/GameStore)
+Sistema desenvolvido com Java puro e POO, focado em regras de negócio complexas e tratamento de exceções personalizado para simular um ambiente de produção real.
 
-<p align="center">
-  <strong>Java • Spring Boot • JPA/Hibernate • MySQL • H2 • Maven • Postman</strong>
-</p>
+#### 🌐 [Workshop Spring Boot & JPA](https://github.com/Davidds5/workshop-springBoot4-jpa)
+Implementação de uma API REST completa seguindo os padrões de mercado.
+*   **Destaques:** Modelagem de domínio complexa (One-to-Many/Many-to-Many), entidades associativas com chave composta e persistência de dados com JPA/Hibernate.
 
 ---
 
-<h2>🚀 Objetivo Profissional</h2>
-
-<p>
-Busco uma <strong>vaga de estágio em desenvolvimento Java</strong> para atuar com back-end, 
-APIs REST e banco de dados, aplicando fundamentos sólidos de POO e boas práticas.
-</p>
-
-<p>
-Tenho disciplina, constância nos estudos e foco em <strong>entender o funcionamento real dos sistemas</strong>, 
-não apenas fazê-los funcionar.
-</p>
+### 📈 Caminho para o Próximo Nível (Foco Atual)
+Atualmente estou aprofundando meus conhecimentos nos diferenciais do mercado de 2026 para atingir a senioridade de Júnior em grandes corporações:
+- ✅ Testes Automatizados (JUnit e Mockito)
+- ✅ Segurança e Autenticação (Spring Security & JWT)
+- ✅ Containerização com Docker
+- ✅ Documentação de APIs com Swagger/OpenAPI
 
 ---
 
-<h2>📂 Projetos em Destaque</h2>
-
-<h3>🌐 API REST – Spring Boot + JPA (DevSuperior)</h3>
-
-<p>
-🔗 <a href="https://github.com/Davidds5/workshop-springBoot4-jpa">Acessar repositório</a>
-</p>
-
-<ul>
-  <li>Arquitetura em camadas (Resource, Service, Repository)</li>
-  <li>CRUD completo</li>
-  <li>JPA / Hibernate</li>
-  <li>Relacionamentos entre entidades</li>
-  <li>Banco H2 (testes) e PostgreSQL</li>
-  <li>Tratamento global de exceções</li>
-  <li>Padrão REST</li>
-</ul>
-
----
-
-<h3>🛒 GameStore (Projeto Autoral)</h3>
-
-<p>
-🔗 <a href="https://github.com/Davidds5/GameStore">Acessar repositório</a>
-</p>
-
-<ul>
-  <li>Aplicação Java console</li>
-  <li>Cadastro de produtos</li>
-  <li>Controle de estoque</li>
-  <li>Carrinho de compras</li>
-  <li>Registro de vendas</li>
-  <li>Uso de coleções e exceções</li>
-  <li>Foco em regras de negócio</li>
-</ul>
-
----
-
-<h2>📊 GitHub</h2>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Davidds5&show_icons=true&theme=dark&hide_border=true&count_private=true" 
-    height="160"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidds5&layout=compact&theme=dark&hide_border=true&langs_count=6" 
-    height="160"
-  />
-</p>
-
----
-
-<h2>🌐 Contato</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/david-silva-17b2882bb">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.tiktok.com/@clovin_programacao">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <em>Disciplina diária constrói base técnica.</em>
-</p>
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:111827&height=120&section=footer"
-  />
-</p>
+### 📫 Contato
+*   **LinkedIn:** [www.linkedin.com/in/david-silva-17b2882bb]
+*   **Email:** ds2945294@gmail.com
