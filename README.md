@@ -61,7 +61,7 @@ Tenho como foco resolver problemas reais através de software, estruturando apli
 ---
 
 ### 💅 Manicure API  
-🔗 https://github.com/Davidds5/manicure-api  
+🔗 [https://github.com/Davidds5/manicure-api  ](https://github.com/Davidds5/manicure_api)
 
 <div align="center">
 
