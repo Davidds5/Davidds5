@@ -61,34 +61,28 @@ Tenho como foco resolver problemas reais através de software, estruturando apli
 ---
 
 ### 💅 Manicure API  
-🔗 [https://github.com/Davidds5/manicure-api  ](https://github.com/Davidds5/manicure_api)
+🔗 [https://github.com/Davidds5/manicure-api](https://github.com/Davidds5/manicure_api)
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mockito-FFCA28?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MockMvc-6DB33F?style=for-the-badge"/>
 
 </div>
 
 **Problema Resolvido:**  
-Resolve a falta de organização no gerenciamento de clientes, serviços e agendamentos, substituindo processos manuais por uma API estruturada.
+Otimização da gestão de agendamentos e serviços para profissionais autônomos, eliminando falhas de comunicação e processos manuais.
 
 **Destaques Técnicos:**
-- Arquitetura em camadas (Controller, Service, Repository)
-- DTOs com MapStruct
-- Validações com Bean Validation
-- Tratamento de exceções customizadas
-- Documentação com Swagger/OpenAPI
-
-**Banco de Dados:** PostgreSQL com Flyway  
-**Testes:** JUnit 5, Mockito e MockMvc  
-
----
+- **Segurança:** Autenticação e Autorização Stateless com Spring Security e JWT.
+- **Arquitetura:** Camadas bem definidas e uso de DTOs com MapStruct para desacoplamento.
+- **Qualidade:** Cobertura de testes unitários e de integração (JUnit 5, Mockito, MockMvc).
+- **Banco de Dados:** Controle de versionamento de schemas com Flyway.
+- **Documentação:** API documentada e testável via Swagger/OpenAPI.
 
 ### 🎮 GameStore  
 🔗 https://github.com/Davidds5/GameStore  
@@ -112,7 +106,7 @@ Simula um sistema de gestão com foco em regras de negócio complexas sem uso de
 
 ---
 
-### 🌐 Workshop Spring Boot & JPA  
+### 🛒 Order Management System  
 🔗 https://github.com/Davidds5/workshop-springBoot4-jpa  
 
 <div align="center">
@@ -124,12 +118,12 @@ Simula um sistema de gestão com foco em regras de negócio complexas sem uso de
 </div>
 
 **Problema Resolvido:**  
-Estruturação de uma API REST com modelagem de dados complexa simulando cenários reais.
+Implementação de um domínio de e-commerce com alta complexidade de relacionamentos e persistência de dados.
 
 **Destaques Técnicos:**
-- Relacionamentos (One-to-Many, Many-to-Many)
-- JPA/Hibernate
-- Estrutura REST
+- **Modelagem de Dados:** Implementação de relacionamentos One-to-Many e Many-to-Many (com tabela de associação).
+- **Persistência:** Uso avançado de JPA/Hibernate para gestão de estados de entidades.
+- **API Design:** Estruturação de endpoints seguindo as melhores práticas RESTful.
 
 **Banco de Dados:** MySQL  
 **Testes:** JUnit e Mockito  
