@@ -34,7 +34,7 @@ Além de desenvolver soluções para problemas reais do dia a dia, compartilho r
 - **Planejamento Orçamentário 50/30/20:** Alocação de renda dinâmica (Essenciais, Lazer, Futuro) com suporte a rendas extras e parser semântico para gastos em linguagem natural.
 - 🟢 **Status:** **Em produção para uso pessoal e convidados.**
 
-🌐 [**Acessar Produto no Ar (Live)**](https://projeto-financas-rouge.vercel.app) | 🔗 [Repositório GitHub](https://github.com/Davidds5/projeto-financas)
+🌐 [**Acessar Produto no Ar (Live)**](https://projeto-financas-rouge.vercel.app) | 
 
 ---
 
@@ -60,7 +60,7 @@ Além de desenvolver soluções para problemas reais do dia a dia, compartilho r
 - **Governança de Sessão & Tolerância:** Cancelamento self-service com tolerância de arrependimento (15 min) e revogação instantânea de sessões administrativas via `tokenVersion`.
 - 🟢 **Status:** **Em produção para o cliente Wesley.**
 
-🌐 [**Acessar Produto no Ar (Live)**](https://barberpro-rose.vercel.app) | 🔗 [Repositório GitHub](https://github.com/Davidds5/barberpro)
+🌐 [**Acessar Produto no Ar (Live)**](https://barberpro-rose.vercel.app) | 
 
 ---
 
@@ -86,7 +86,7 @@ Além de desenvolver soluções para problemas reais do dia a dia, compartilho r
 - **Portal do Cliente:** Link seguro e efêmero (Magic Link) sem atrito de login para acompanhamento direto no celular.
 - 🟢 **Status:** **Em produção no Render.**
 
-🌐 [**Acessar Produto no Ar (Live)**](https://obrasync-bf1t.onrender.com) | 🔗 [Repositório GitHub](https://github.com/Davidds5/obrasync)
+🌐 [**Acessar Produto no Ar (Live)**](https://obrasync-bf1t.onrender.com) | 
 
 ---
 
@@ -113,8 +113,7 @@ Além de desenvolver soluções para problemas reais do dia a dia, compartilho r
 - **Qualidade & DevOps:** 17 migrations Flyway, suíte de testes automatizados com JUnit 5 e Mockito, containerização Docker multi-stage e documentação interativa Swagger.
 - 🟢 **Status:** **Em produção no Render.**
 
-🌐 [**Acessar Produto no Ar (Live)**](https://belasunhas.onrender.com) | 🔗 [Repositório GitHub](https://github.com/Davidds5/manicure_api)
-
+🌐 [**Acessar Produto no Ar (Live)**](https://belasunhas.onrender.com) | 
 ---
 
 ## 🛠️ Tech Stack & Competências
